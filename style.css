@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-style {
+
+    background-color: antiquewhite;
+}
+
+img {
+
+    height: inherit;
+    width: inherit;
+}
